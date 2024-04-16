@@ -5,7 +5,10 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.vtu-details img {
+    width: 200px;
+    height: 200px;
+}
 #calculator {
     width: 80%;
     margin: 20px auto; /* Center the calculator and add some margin for spacing */
